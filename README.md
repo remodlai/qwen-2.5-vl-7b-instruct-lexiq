@@ -7,8 +7,6 @@ pipeline_tag: image-text-to-text
 tags:
 - multimodal
 library_name: transformers
-base_model:
-- Qwen/Qwen2.5-VL-7B-Instruct
 ---
 
 # Qwen2.5-VL-7B-Instruct
