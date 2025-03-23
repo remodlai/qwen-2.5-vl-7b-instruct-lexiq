@@ -7,6 +7,6 @@
     151643
   ],
   "repetition_penalty": 1.05,
-  "temperature": 0.00001,
+  "temperature": 0.000001,
   "transformers_version": "4.37.0"
 }
